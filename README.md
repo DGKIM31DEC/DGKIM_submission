@@ -1,1 +1,1 @@
-This is submission for tech evaluation
+This is a submission for tech evaluation of Novelis
